@@ -2,4 +2,4 @@
 Записная книжка на React
 
 
-[https://codesandbox.io/s/jolly-khorana-tzsldn?file=/src/App.js](https://codesandbox.io/s/jolly-khorana-tzsldn?file=/src/App.js)
+Демо: [https://codesandbox.io/s/jolly-khorana-tzsldn?file=/src/App.js](https://codesandbox.io/s/jolly-khorana-tzsldn?file=/src/App.js)
